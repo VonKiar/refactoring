@@ -19,5 +19,5 @@
     #codes
     return true;
 ```
-### Solve: Separate messy line and DELETE useless block.
-### Benefits: Nice clean code and easier to look at.
+#### Solve: Separate messy line and DELETE useless block.
+#### Benefits: Nice clean code and easier to look at.
