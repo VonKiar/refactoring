@@ -8,11 +8,16 @@
     }
     return true;
 ```
-### Issue: ...
+### Issue:
+- Unnecessary if() statement.
+- s
 ```
-    if (destFile.exists()) { error("Destination already exists, not overwriting it.");return false; }
+    if (destFile.exists()) {
+        error("Destination already exists, not overwriting it.")
+        return false;
+    }
     #codes
     return true;
 ```
-### Solve: ...
+### Solve: DELETE
 ### Benefits: ...
