@@ -1,6 +1,6 @@
 # Refactoring
 ## League’s Insights
-'''
+```
     if (destFile.exists()) { error("Destination already exists, not overwriting it.");return false; }
     if (!destFile.exists()){
       if(isValid(key,strategy)) {
@@ -17,7 +17,7 @@
       else return false;
     }
     return true;
-'''
+```
 <details>
   <summary> ITERATION 1 </summary>
   <p> 
