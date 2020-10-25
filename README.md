@@ -1,9 +1,7 @@
 # Refactoring
 ## League’s Insights
 
-<details>
-  <summary> ITERATION 1 </summary>
-  <p> 
+
 ```
     if (destFile.exists()) { error("Destination already exists, not overwriting it.");return false; }
     if (!destFile.exists()){
@@ -22,5 +20,4 @@
     }
     return true;
 ```
-  </p>
-  </details>
+
