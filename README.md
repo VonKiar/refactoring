@@ -1,5 +1,5 @@
 # Refactoring
-[Jomsaruj's PA4-SecretMEMO](https://github.com/Jomsaruj/PA4-SecretMEMO)
+## Project: [Jomsaruj's PA4-SecretMEMO](https://github.com/Jomsaruj/PA4-SecretMEMO)
 ## 1. Location: src/encryptdecrypt/WriteFile.java
 ### Method: writeFile()
 ```
