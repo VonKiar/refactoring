@@ -13,7 +13,7 @@
 - Unnecessary if() statement.
 ```
     if (destFile.exists()) {
-        error("Destination already exists, not overwriting it.")
+        error("Destination already exists, not overwriting it.");
         return false;
     }
     #codes
