@@ -1,5 +1,5 @@
 # Refactoring
-## Location: src/encryptdecrypt/WriteFile.java
+## 1. Location: src/encryptdecrypt/WriteFile.java
 ### Method: writeFile()
 ```
     if (destFile.exists()) { error("Destination already exists, not overwriting it.");return false; }
@@ -9,8 +9,8 @@
     return true;
 ```
 ### Issue:
-1. Hard to read one line statement.
-2. Unnecessary if() statement.
+- Hard to read one line statement.
+- Unnecessary if() statement.
 ```
     if (destFile.exists()) {
         error("Destination already exists, not overwriting it.")
