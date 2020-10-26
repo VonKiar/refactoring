@@ -1,6 +1,6 @@
 # Refactoring
-Project: [Jomsaruj's PA4-SecretMEMO](https://github.com/Jomsaruj/PA4-SecretMEMO)
-Reference Site: [Refactoring GURU](https://refactoring.guru/refactoring)
+- Project: [Jomsaruj's PA4-SecretMEMO](https://github.com/Jomsaruj/PA4-SecretMEMO)
+- Reference Site: [Refactoring GURU](https://refactoring.guru/refactoring)
 ## 1. Location: src/encryptdecrypt/WriteFile.java
 ### Method: writeFile()
 ```
